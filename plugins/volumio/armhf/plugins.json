@@ -465,6 +465,24 @@
 						}
 					],
 					"updated": "16-11-2018"
+				},
+				{
+					"prettyName": "cec-control",
+					"icon": "fa-lightbulb-o",
+					"name": "cec-control",
+					"version": "1.0.0",
+					"url": "http://volumio.github.io/volumio-plugins/plugins/volumio/armhf/system_controller/cec-control/cec-control.zip",
+					"license": "ISC",
+					"description": "Turn cec compatible devices on and off when listing to music",
+					"details": "test",
+					"author": "jer0enA",
+					"screenshots": [
+						{
+							"image": "",
+							"thumb": ""
+						}
+					],
+					"updated": "2-2-2019"
 				}
 			]
 		},
